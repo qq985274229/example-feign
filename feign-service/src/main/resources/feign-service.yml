@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: feign-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr:
+        namespace:
